@@ -1,0 +1,15 @@
+**Dataset inventory**
+
+| Property                            |   Value |
+|:------------------------------------|--------:|
+| Labelled documents (after cleaning) |   49239 |
+| Mean review length (characters)     |     412 |
+| Level-1 categories                  |       6 |
+| Level-2 categories                  |      64 |
+| Level-3 categories                  |     473 |
+| Distinct label paths                |     564 |
+| Documents without a level-3 label   |    2733 |
+| Level-2 categories with >1 parent   |       0 |
+| Level-3 categories with >1 parent   |      24 |
+| Largest level-1 class               |   12432 |
+| Smallest level-1 class              |    4418 |
