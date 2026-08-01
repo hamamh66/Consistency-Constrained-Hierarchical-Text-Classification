@@ -1,0 +1,581 @@
+LEVEL 1 -> LEVEL 2
+baby products	bathing skin care
+baby products	car seats accessories
+baby products	diapering
+baby products	feeding
+baby products	gear
+baby products	gifts
+baby products	health baby care
+baby products	nursery
+baby products	potty training
+baby products	pregnancy maternity
+baby products	safety
+baby products	strollers
+beauty	bath body
+beauty	fragrance
+beauty	hair care
+beauty	makeup
+beauty	skin care
+beauty	tools accessories
+grocery gourmet food	baby food
+grocery gourmet food	beverages
+grocery gourmet food	breads bakery
+grocery gourmet food	breakfast foods
+grocery gourmet food	candy chocolate
+grocery gourmet food	cooking baking supplies
+grocery gourmet food	dairy eggs
+grocery gourmet food	fresh flowers live indoor plants
+grocery gourmet food	gourmet gifts
+grocery gourmet food	herbs
+grocery gourmet food	meat poultry
+grocery gourmet food	meat seafood
+grocery gourmet food	pantry staples
+grocery gourmet food	produce
+grocery gourmet food	sauces dips
+grocery gourmet food	snack food
+health personal care	baby child care
+health personal care	health care
+health personal care	household supplies
+health personal care	medical supplies equipment
+health personal care	nutrition wellness
+health personal care	personal care
+health personal care	sexual wellness
+pet supplies	birds
+pet supplies	bunny rabbit central
+pet supplies	cats
+pet supplies	dogs
+pet supplies	fish aquatic pets
+pet supplies	small animals
+toys games	action toy figures
+toys games	arts crafts
+toys games	baby toddler toys
+toys games	building toys
+toys games	dolls accessories
+toys games	dress up pretend play
+toys games	electronics for kids
+toys games	games
+toys games	grown up toys
+toys games	hobbies
+toys games	learning education
+toys games	novelty gag toys
+toys games	puzzles
+toys games	sports outdoor play
+toys games	stuffed animals plush
+toys games	tricycles
+toys games	vehicles remote control
+
+LEVEL 2 -> LEVEL 3
+action toy figures	accessories
+action toy figures	figures
+action toy figures	playsets
+action toy figures	statues
+arts crafts	aprons smocks
+arts crafts	beads
+arts crafts	blackboards whiteboards
+arts crafts	clay dough
+arts crafts	craft kits
+arts crafts	drawing painting supplies
+arts crafts	drawing sketching tablets
+arts crafts	easels
+arts crafts	molding sculpting sticks
+arts crafts	printing stamping
+arts crafts	stickers
+baby child care	health care
+baby child care	personal care
+baby food	baby formula
+baby food	beverages
+baby food	cereal
+baby food	crackers biscuits
+baby food	dinners
+baby food	fruit
+baby toddler toys	activity play centers
+baby toddler toys	balls
+baby toddler toys	bath toys
+baby toddler toys	blocks
+baby toddler toys	car seat stroller toys
+baby toddler toys	crib toys attachments
+baby toddler toys	hammering pounding toys
+baby toddler toys	indoor climbers play structures
+baby toddler toys	mirrors
+baby toddler toys	music sound
+baby toddler toys	push pull toys
+baby toddler toys	rattles
+baby toddler toys	rocking spring ride ons
+baby toddler toys	shape sorters
+baby toddler toys	spinning tops
+baby toddler toys	stacking nesting toys
+baby toddler toys	stuffed animals toys
+baby toddler toys	teaching clocks
+baby toddler toys	toy gift sets
+bath body	bath
+bath body	bathing accessories
+bath body	cleansers
+bath body	scrubs body treatments
+bath body	sets
+bathing skin care	aromatherapy
+bathing skin care	bathing tubs seats
+bathing skin care	bubble bath
+bathing skin care	gift sets
+bathing skin care	grooming healthcare kits
+bathing skin care	non slip bath mats
+bathing skin care	shampoo
+bathing skin care	skin care
+bathing skin care	soaps cleansers
+bathing skin care	washcloths towels
+beverages	cocktail mixers
+beverages	coconut water
+beverages	coffee
+beverages	energy drinks
+beverages	hot cocoa
+beverages	juices
+beverages	powdered drink mixes
+beverages	soft drinks
+beverages	sports drinks
+beverages	tea
+beverages	water
+birds	cages accessories
+birds	feeding watering supplies
+birds	food
+birds	health supplies
+birds	toys
+birds	treats
+breads bakery	breadcrumbs
+breads bakery	breads
+breads bakery	breadsticks
+breads bakery	breakfast bakery
+breads bakery	cakes
+breads bakery	cookies
+breads bakery	fresh baked cookies
+breads bakery	packaged breads
+breads bakery	pastries
+breads bakery	pizza crusts
+breads bakery	stuffing
+breads bakery	tortillas
+breakfast foods	breakfast cereal bars
+breakfast foods	cereals
+breakfast foods	toaster pastries
+building toys	building sets
+building toys	marble runs
+building toys	stacking blocks
+bunny rabbit central	carriers
+bunny rabbit central	collars
+bunny rabbit central	feeding watering supplies
+bunny rabbit central	food
+bunny rabbit central	houses habitats
+bunny rabbit central	odor stain removers
+bunny rabbit central	rabbit hutches
+bunny rabbit central	treats
+candy chocolate	assortments
+candy chocolate	bars
+candy chocolate	caramels
+candy chocolate	chewing gum
+candy chocolate	chocolate assortments
+candy chocolate	chocolate bars
+candy chocolate	chocolate covered fruit
+candy chocolate	chocolate covered nuts
+candy chocolate	chocolate pretzels
+candy chocolate	chocolate truffles
+candy chocolate	fruits
+candy chocolate	fudge
+candy chocolate	gum
+candy chocolate	gummy candies
+candy chocolate	gummy candy
+candy chocolate	halva
+candy chocolate	hard candies
+candy chocolate	jelly beans
+candy chocolate	licorice
+candy chocolate	marshmallows
+candy chocolate	mints
+candy chocolate	nut clusters
+candy chocolate	suckers lollipops
+candy chocolate	taffy
+candy chocolate	toffee
+car seats accessories	accessories
+car seats accessories	car seats
+cats	beds furniture
+cats	cages
+cats	carriers strollers
+cats	cat flaps
+cats	collars
+cats	educational repellents
+cats	feeding watering supplies
+cats	food
+cats	grooming
+cats	health supplies
+cats	litter housebreaking
+cats	memorials
+cats	toys
+cats	treats
+cooking baking supplies	baking mixes
+cooking baking supplies	baking powder
+cooking baking supplies	chocolate
+cooking baking supplies	coatings batters
+cooking baking supplies	dessert toppings
+cooking baking supplies	extracts flavoring
+cooking baking supplies	flours meals
+cooking baking supplies	food coloring
+cooking baking supplies	nuts seeds
+cooking baking supplies	pastry decorations
+cooking baking supplies	sugar substitutes
+cooking baking supplies	sugars sweeteners
+cooking baking supplies	syrups
+dairy eggs	butter
+dairy eggs	cheese
+dairy eggs	eggs
+dairy eggs	ice cream frozen desserts
+dairy eggs	milk
+dairy eggs	milk substitutes
+diapering	changing table pads covers
+diapering	cloth diaper accessories
+diapering	cloth diapers
+diapering	diaper bags
+diapering	diaper changing kits
+diapering	diaper pails refills
+diapering	diaper stackers caddies
+diapering	disposable diapers
+diapering	portable changing pads
+diapering	wipes holders
+dogs	apparel accessories
+dogs	beds furniture
+dogs	carriers travel products
+dogs	collars
+dogs	doors
+dogs	feeding watering supplies
+dogs	food
+dogs	grooming
+dogs	health supplies
+dogs	houses
+dogs	litter housebreaking
+dogs	toys
+dogs	training behavior aids
+dogs	treats
+dolls accessories	doll accessories
+dolls accessories	dollhouse accessories
+dolls accessories	dollhouses
+dolls accessories	dolls
+dolls accessories	playsets
+dress up pretend play	beauty fashion
+dress up pretend play	hair nails
+dress up pretend play	pretend play
+electronics for kids	cameras camcorders
+electronics for kids	dance mats
+electronics for kids	electronic pets
+electronics for kids	electronic toys
+electronics for kids	music players karaoke
+electronics for kids	personal video players accessories
+electronics for kids	plug play video games
+electronics for kids	systems accessories
+electronics for kids	walkie talkies
+feeding	bottle feeding
+feeding	breastfeeding
+feeding	food
+feeding	gift sets
+feeding	highchairs booster seats
+feeding	pacifiers accessories
+feeding	pillows stools
+feeding	solid feeding
+fish aquatic pets	aquarium d cor
+fish aquatic pets	aquarium heaters
+fish aquatic pets	aquarium hoods
+fish aquatic pets	aquarium lights
+fish aquatic pets	aquarium stands
+fish aquatic pets	aquarium starter kits
+fish aquatic pets	aquariums
+fish aquatic pets	automatic feeders
+fish aquatic pets	breeding tanks
+fish aquatic pets	cleaners
+fish aquatic pets	fish bowls
+fish aquatic pets	food
+fish aquatic pets	health supplies
+fish aquatic pets	hydrometers
+fish aquatic pets	pumps filters
+fish aquatic pets	test kits
+fish aquatic pets	water treatments
+fragrance	children s
+fragrance	men s
+fragrance	women s
+fresh flowers live indoor plants	fresh cut flowers
+fresh flowers live indoor plants	live indoor plants
+games	battling tops
+games	board games
+games	card games
+games	dice gaming dice
+games	dvd games
+games	floor games
+games	game accessories
+games	game collections
+games	game room games
+games	handheld games
+games	stacking games
+games	standard playing card decks
+games	tile games
+games	trading card games
+games	travel games
+gear	activity centers entertainers
+gear	baby gyms playmats
+gear	baby seats
+gear	backpacks carriers
+gear	playards
+gear	shopping cart covers
+gear	swings
+gear	walkers
+gifts	albums
+gifts	keepsakes
+gifts	toy banks
+gourmet gifts	candy gifts
+gourmet gifts	cheese gifts
+gourmet gifts	chocolate gifts
+gourmet gifts	coffee gifts
+gourmet gifts	dessert gifts
+gourmet gifts	fruit gifts
+gourmet gifts	jams preserves gifts
+gourmet gifts	meat gifts
+gourmet gifts	sauces gifts
+gourmet gifts	seafood gifts
+gourmet gifts	snack gifts
+gourmet gifts	spices gifts
+gourmet gifts	tea gifts
+grown up toys	action toy figures
+grown up toys	die cast toy vehicles
+grown up toys	games
+grown up toys	hobbies
+grown up toys	novelty gag toys
+grown up toys	puzzles
+hair care	conditioners
+hair care	hair color
+hair care	hair loss products
+hair care	hair perms texturizers
+hair care	hair relaxers
+hair care	hair scalp treatments
+hair care	shampoo conditioner sets
+hair care	shampoo plus conditioner
+hair care	shampoos
+hair care	styling products
+hair care	styling tools
+health baby care	sun protection
+health baby care	teethers
+health care	allergy
+health care	alternative medicine
+health care	cough cold
+health care	diabetes
+health care	digestion nausea
+health care	family planning contraceptives
+health care	first aid
+health care	foot care
+health care	incontinence
+health care	massage relaxation
+health care	pain relievers
+health care	pill cases splitters
+health care	sleep snoring
+health care	smoking cessation
+health care	stimulants
+health care	stress reduction
+health care	therapeutic skin care
+health care	thermometer accessories
+health care	thermometers
+health care	women s health
+herbs	spices seasonings
+hobbies	coin collecting
+hobbies	model building kits tools
+hobbies	radio control
+hobbies	rockets
+hobbies	scaled model vehicles
+hobbies	slot cars
+hobbies	trains accessories
+household supplies	air fresheners
+household supplies	cleaning tools
+household supplies	dishwashing
+household supplies	household batteries
+household supplies	household cleaning
+household supplies	laundry
+household supplies	lighters
+household supplies	paper plastic
+learning education	basic life skills toys
+learning education	electronics
+learning education	flash cards
+learning education	geography
+learning education	habitats
+learning education	mathematics counting
+learning education	reading writing
+learning education	science
+makeup	body
+makeup	eyes
+makeup	face
+makeup	lips
+makeup	makeup remover
+makeup	makeup sets
+makeup	nails
+meat poultry	exotic meats
+meat poultry	jerky
+meat poultry	lamb
+meat poultry	p t s
+meat poultry	pork
+meat poultry	sausages
+meat poultry	seafood
+meat seafood	bacon
+meat seafood	beef
+meat seafood	chicken
+meat seafood	foie gras p t s
+meat seafood	sausages
+meat seafood	seafood
+meat seafood	wild game fowl
+medical supplies equipment	bathroom aids safety
+medical supplies equipment	beds accessories
+medical supplies equipment	braces
+medical supplies equipment	daily living aids
+medical supplies equipment	health monitors
+medical supplies equipment	mobility aids equipment
+medical supplies equipment	occupational physical therapy aids
+medical supplies equipment	tests
+novelty gag toys	finger boards finger bikes
+novelty gag toys	flying toys
+novelty gag toys	gag toys practical jokes
+novelty gag toys	magic kits accessories
+novelty gag toys	miniatures
+novelty gag toys	money banks
+novelty gag toys	nesting dolls
+novelty gag toys	novelty spinning tops
+novelty gag toys	prisms kaleidoscopes
+novelty gag toys	slime putty toys
+novelty gag toys	temporary tattoos
+novelty gag toys	toy balls
+novelty gag toys	viewfinders
+novelty gag toys	wind up toys
+nursery	bedding
+nursery	furniture
+nursery	nursery d cor
+nutrition wellness	nutrition bars drinks
+nutrition wellness	sports supplements
+nutrition wellness	vitamins supplements
+nutrition wellness	weight loss products
+pantry staples	canned jarred food
+pantry staples	condiments
+pantry staples	cooking baking supplies
+pantry staples	dried beans
+pantry staples	herbs
+pantry staples	jams
+pantry staples	oils
+pantry staples	packaged meals side dishes
+pantry staples	pasta noodles
+pantry staples	sauces
+personal care	body art
+personal care	deodorants antiperspirants
+personal care	ear care
+personal care	eye care
+personal care	feminine care
+personal care	foot care
+personal care	lip care products
+personal care	oral hygiene
+personal care	shaving hair removal
+potty training	potties seats
+potty training	seat covers
+potty training	step stools
+potty training	training pants
+pregnancy maternity	maternity pillows
+produce	fresh fruits
+produce	fresh vegetables
+puzzles	brain teasers
+puzzles	d puzzles
+puzzles	floor puzzles
+puzzles	jigsaw puzzles
+puzzles	pegged puzzles
+puzzles	puzzle accessories
+puzzles	puzzle play mats
+safety	bathroom safety
+safety	cabinet locks straps
+safety	edge corner guards
+safety	electrical safety
+safety	gates doorways
+safety	harnesses leashes
+safety	kitchen safety
+safety	monitors
+safety	outdoor safety
+safety	rails rail guards
+safety	sleep positioners
+sauces dips	dips
+sauces dips	sauces
+sexual wellness	adult toys games
+sexual wellness	bondage gear accessories
+sexual wellness	novelties
+sexual wellness	safer sex
+sexual wellness	sensual delights
+sexual wellness	sex furniture
+sexual wellness	sexual enhancers
+skin care	body
+skin care	eyes
+skin care	face
+skin care	hands nails
+skin care	maternity
+skin care	sets
+skin care	sun
+small animals	collars
+small animals	exercise wheels
+small animals	feeding watering supplies
+small animals	food
+small animals	houses habitats
+small animals	toys
+small animals	treats
+snack food	chips
+snack food	chips crisps
+snack food	cookies
+snack food	crackers
+snack food	dried fruit
+snack food	dried fruit raisins
+snack food	fruit leather
+snack food	granola bars
+snack food	granola trail mix bars
+snack food	jerky dried meats
+snack food	nuts seeds
+snack food	party mix
+snack food	popcorn
+snack food	pork rinds
+snack food	pretzels
+snack food	pudding
+snack food	puffed snacks
+snack food	raisins
+snack food	rice cakes
+snack food	salsas
+snack food	trail mix
+sports outdoor play	ball pits accessories
+sports outdoor play	beanbags foot bags
+sports outdoor play	blasters foam play
+sports outdoor play	fitness equipment
+sports outdoor play	gardening tools
+sports outdoor play	gym sets swings
+sports outdoor play	inflatable bouncers
+sports outdoor play	kickball playground balls
+sports outdoor play	kites wind spinners
+sports outdoor play	marble games
+sports outdoor play	play tents tunnels
+sports outdoor play	pogo sticks hoppers
+sports outdoor play	pools water fun
+sports outdoor play	sand water tables
+sports outdoor play	sandboxes accessories
+sports outdoor play	slumber bags
+sports outdoor play	sports
+sports outdoor play	yo yos
+strollers	accessories
+strollers	joggers
+strollers	lightweight
+strollers	prams
+strollers	standard
+strollers	tandem
+strollers	travel systems
+stuffed animals plush	animals figures
+stuffed animals plush	plush backpacks purses
+stuffed animals plush	plush pillows
+stuffed animals plush	plush puppets
+stuffed animals plush	puppets
+stuffed animals plush	teddy bears
+tools accessories	bags cases
+tools accessories	cotton swabs
+tools accessories	facial steamers
+tools accessories	hair coloring tools
+tools accessories	makeup brushes tools
+tools accessories	mirrors
+tools accessories	nail tools
+tricycles	scooters wagons
+vehicles remote control	die cast vehicles
+vehicles remote control	play trains railway sets
+vehicles remote control	play vehicles
+vehicles remote control	vehicle playsets

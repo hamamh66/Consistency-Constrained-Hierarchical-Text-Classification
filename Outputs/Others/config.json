@@ -1,0 +1,52 @@
+{
+ "corpus": "Kaggle Hierarchical Text Classification (Amazon reviews)",
+ "input_field": "Text (review body); Title excluded - it is the product name",
+ "documents_after_cleaning": 49239,
+ "protocol_primary": "product-disjoint 70/10/20 by hashed productId",
+ "protocol_secondary": "published train_40k / val_10k split",
+ "seeds": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "tfidf": {
+  "sublinear_tf": true,
+  "min_df": 3,
+  "max_df": 0.6,
+  "ngram_range": [
+   1,
+   2
+  ],
+  "max_features": 300000
+ },
+ "unified_embedding": {
+  "method": "TruncatedSVD",
+  "dim": 256,
+  "l2_normalised": true
+ },
+ "clustering": {
+  "method": "MiniBatchKMeans",
+  "K": 300,
+  "n_init": 5,
+  "batch_size": 2048
+ },
+ "classifier": {
+  "method": "LinearSVC",
+  "C": 0.5,
+  "max_iter": 3000,
+  "scheme": "one-vs-rest"
+ },
+ "calibration": {
+  "method": "temperature scaling",
+  "grid": [
+   0.4,
+   4.0,
+   19
+  ],
+  "fitted_on": "validation partition"
+ },
+ "decoding": "argmax over admissible paths of log p1 + log p2 + log p3",
+ "representation_caveat": "Linear TF-IDF/SVD encoder, not a transformer. HuggingFace was unreachable in the environment where these results were produced."
+}

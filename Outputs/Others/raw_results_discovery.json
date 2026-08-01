@@ -1,0 +1,55 @@
+{
+ "hierarchy_recovery": {
+  "Cat1": {
+   "K": 6,
+   "ARI": 0.08475330758404818,
+   "NMI": 0.12230813177381104
+  },
+  "Cat2": {
+   "K": 64,
+   "ARI": 0.08724097550789213,
+   "NMI": 0.22126127677254023
+  },
+  "Cat3": {
+   "K": 464,
+   "ARI": 0.06336081999163207,
+   "NMI": 0.32889762366582526
+  }
+ },
+ "nested_coarse_vs_Cat1": {
+  "ARI": 0.08068377487005977,
+  "NMI": 0.11189218110843226
+ },
+ "edges_L1_L2": {
+  "n_discovered": 64,
+  "n_reference": 64,
+  "precision": 1.0,
+  "recall": 1.0
+ },
+ "edges_L2_L3": {
+  "n_discovered": 490,
+  "n_reference": 490,
+  "precision": 1.0,
+  "recall": 1.0
+ },
+ "evolving": {
+  "held_out_categories": [
+   "nutrition wellness",
+   "gifts",
+   "novelty gag toys",
+   "tools accessories",
+   "health care",
+   "health baby care",
+   "grown up toys",
+   "meat poultry"
+  ],
+  "n_test_new": 1324,
+  "n_test_seen": 8285,
+  "tau": 0.15170147201302336,
+  "detection_rate_new": 0.0,
+  "false_alarm_rate_seen": 0.0,
+  "roc_auc": 0.5204406099181902,
+  "mean_sim_new": 0.3404159283559044,
+  "mean_sim_seen": 0.34556995296528026
+ }
+}

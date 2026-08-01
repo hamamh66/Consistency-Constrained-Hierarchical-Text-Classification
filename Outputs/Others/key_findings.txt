@@ -1,0 +1,27 @@
+KEY FINDINGS (all measured, 5 seeds, product-disjoint split)
+
+1. Consistency-constrained decoding works.
+   Hierarchical F1  63.80 ± 0.88  ->  67.79 ± 0.74
+   Invalid paths    25.80 ± 0.71%  ->  0.00 ± 0.00%
+   Paired t-test against the strongest baseline: p = 5.9e-05
+
+2. Hierarchy discovery contributes nothing.
+   Removing it changes hierarchical F1 by -0.01 points
+   (p = 0.49).
+   Agreement with the reference hierarchy: ARI 0.085 / 0.087 / 0.063
+   (0 = chance).
+
+3. Dynamic cluster induction cannot detect unseen categories.
+   Detection at the specified threshold: 0.0%.
+   Threshold-free ROC AUC: 0.520 (chance = 0.500).
+
+4. Conceptual consequence.
+   The "evolving label graph" attains precision and recall of 1.000 against the
+   reference edge set only because the edges are enumerated from the training
+   annotations. That is supervised structure extraction, not discovery. The
+   measured gain in (1) comes from this extracted lattice.
+
+5. True task difficulty.
+   Measured accuracy 84.84 ± 0.85 / 64.51 ± 0.92 / 51.58 ± 1.56
+   against the 92.4 / 88.6 / 84.2 stated in the submitted manuscript.
+   Macro-F1 at level 3 is 23.97 ± 0.26: the long tail dominates.

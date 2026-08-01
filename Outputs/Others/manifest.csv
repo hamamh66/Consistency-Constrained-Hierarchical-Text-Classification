@@ -1,0 +1,25 @@
+Folder,File,Description
+Tables,table1_dataset_statistics.csv / .md,Dataset inventory
+Tables,table2_main_results.csv / .md,"Main results, mean ± SD over 5 seeds, product-disjoint split (%)"
+Tables,table3_ablation.csv / .md,Ablation with paired significance tests (%)
+Tables,table4_significance.csv / .md,Paired t-tests on hierarchical F1 across seeds
+Tables,table5_hierarchy_recovery.csv / .md,Agreement between the discovered partition and the reference hierarchy (0 = chance)
+Tables,table6_unseen_categories.csv / .md,Detection of withheld categories
+Tables,table7_split_comparison.csv / .md,"Published split / product-disjoint split, single seed (%)"
+Tables,table8_per_seed_raw.csv / .md,Per-seed raw results (%)
+Figures,fig01_levelwise_performance.png / .pdf,"Accuracy and macro-F1 by hierarchy level, mean ± SD over seeds"
+Figures,fig02_ablation.png / .pdf,Ablation: hierarchical F1 and invalid-path rate
+Figures,fig03_hierarchy_recovery.png / .pdf,Agreement between discovered partition and reference labels
+Figures,fig04_unseen_category_detection.png / .pdf,Nearest-centroid similarity for seen and withheld categories
+Figures,fig05_label_structure.png / .pdf,Reference hierarchy as a layered graph (replacement for the submitted Figure 20)
+Figures,fig06_class_distribution.png / .pdf,"Long-tailed class distribution, the reason macro-F1 falls far below accuracy"
+Figures,fig07_split_effect.png / .pdf,Published versus product-disjoint evaluation split
+Others,config.json,Full experimental configuration
+Others,environment.json,Software environment
+Others,raw_results_per_seed.json,Raw per-seed metrics
+Others,raw_results_discovery.json,Raw discovery-experiment output
+Others,raw_results_split_comparison.json,Raw split-comparison output
+Others,reference_edges.txt,Reference parent-child edge set
+Others,label_paths.csv,All label paths with document counts
+Others,held_out_categories.json,Level-2 categories withheld for the unseen-category experiment
+Others,key_findings.txt,Narrative summary of the measured findings
